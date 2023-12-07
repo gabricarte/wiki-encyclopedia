@@ -1,0 +1,6 @@
+# Chess
+
+Chess is a board game for two players, called White and Black, each controlling an army of chess pieces, with the objective to checkmate the opponent's king. It is sometimes called **international chess**or **Western chess** to distinguish it from related games such as xiangqi (Chinese chess) and shogi (Japanese chess). The recorded history of chess goes back at least to the emergence of a similar game, chaturanga, in seventh century India. The rules of chess as they are known today emerged in Europe at the end of the 15th century, with standardization and universal acceptance by the end of the 19th century. Today, chess is one of the world's most popular games played by millions of people worldwide.
+
+## First Move Advantage
+There has been a debate among chess players since at least the 18th century about whether playing first gives White a significant advantage. Statistical analysis shows that White scores between 52 and 56 percent at most levels of play, with White's margin increasing as the standard of play improves.[22]
